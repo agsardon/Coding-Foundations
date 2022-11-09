@@ -1,0 +1,39 @@
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-40 {
+    margin-bottom: 40px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.highlighted {
+    font-weight:bold;
+}
+
+.light-blue {
+    color: #5CCEF5;
+}
+
+.light-grey {
+    color: #BBBDBD;
+}
+
+.yellow {
+    color: #F4E166;
+}
+
+.pastel-yellow {
+    color: #FFCE5A;
+}

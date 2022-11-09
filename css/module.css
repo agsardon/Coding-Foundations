@@ -1,0 +1,36 @@
+.menu-h {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.menu .submenu .fa-chevron-down {
+    font-size: .8em;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+.btn-grey {
+    background-color: #36383F;
+    color: #fff;
+}
+
+.btn-green {
+    background-color: #4BCE79;
+    color: black;
+}
+
+.btn-black {
+    background-color: #111111;
+    color: #FFF;
+}
+
+.btn .fa-solid {
+    color: #49C877;
+}
+
